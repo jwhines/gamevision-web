@@ -1,0 +1,31 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-gamevisionweb-dev-80257-authRole",
+      "UnauthRoleArn": "arn:aws:iam::771036260195:role/amplify-gamevisionweb-dev-80257-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::771036260195:role/amplify-gamevisionweb-dev-80257-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-gamevisionweb-dev-80257-deployment",
+      "UnauthRoleName": "amplify-gamevisionweb-dev-80257-unauthRole",
+      "StackName": "amplify-gamevisionweb-dev-80257",
+      "StackId": "arn:aws:cloudformation:us-east-1:771036260195:stack/amplify-gamevisionweb-dev-80257/970c1ab0-fd4f-11ed-b5e8-0e9c12df7055",
+      "AmplifyAppId": "dnlpuz96ckua2"
+    },
+    "categories": {
+      "api": {
+        "gamevisionweb": {}
+      },
+      "auth": {
+        "gamevisionweba8e0c758": {}
+      },
+      "function": {
+        "gamevisiontestlambda": {
+          "gvenv": "true",
+          "secretsPathAmplifyAppId": "dnlpuz96ckua2",
+          "deploymentBucketName": "amplify-gamevisionweb-dev-80257-deployment",
+          "s3Key": "amplify-builds/gamevisiontestlambda-594e6472666b366b696b-build.zip"
+        }
+      }
+    }
+  }
+}
