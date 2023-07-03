@@ -17,14 +17,6 @@
       },
       "auth": {
         "gamevisionweba8e0c758": {}
-      },
-      "function": {
-        "gamevisiontestlambda": {
-          "gvenv": "true",
-          "secretsPathAmplifyAppId": "dnlpuz96ckua2",
-          "deploymentBucketName": "amplify-gamevisionweb-dev-80257-deployment",
-          "s3Key": "amplify-builds/gamevisiontestlambda-594e6472666b366b696b-build.zip"
-        }
       }
     }
   }
